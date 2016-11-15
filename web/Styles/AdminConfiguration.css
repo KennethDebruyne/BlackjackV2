@@ -1,0 +1,128 @@
+html, body {
+    width: 100%;
+
+}
+
+table {
+    width: 95%;
+
+    margin: 0 auto;
+
+}
+
+th {
+    height: 70px;
+    font-size: 125%
+
+}
+
+td {
+  height: 50px;
+
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+
+    border-bottom: 1px solid #000;
+
+}
+
+img {
+  width: 50px;
+  height: 50px;
+
+}
+
+input[type="submit"] {
+  width: 30px;
+  height: 30px;
+
+  margin-left: 2px;
+  margin-right: 2px;
+
+}
+
+input#edit {
+    background:url(../Images/Buttons/Edit.png);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+
+    border: 0;
+    background-size: 100%;
+    color: transparent;
+
+}
+
+input#delete {
+    background:url(../Images/Buttons/Delete.png);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+
+    border: 0;
+    background-size: 100%;
+    color: transparent;
+
+}
+
+input#log {
+    background:url(../Images/Buttons/Log.png);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+
+    border: 0;
+    background-size: 100%;
+    color: transparent;
+
+}
+
+input#new {
+    background:url(../Images/Buttons/New.png);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+
+    border: 0;
+    background-size: 100%;
+    color: transparent;
+
+}
+
+input#details {
+  background:url(../Images/Buttons/Details.png);
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+
+  border: 0;
+  background-size: 100%;
+  color: transparent;
+
+}
+
+input#disabledStye {
+  background-color: #F2F2F2 !important;
+  color: #C6C6C6;
+  border-color: #ddd;
+
+}
+
+input#noStyle {
+  width: auto;
+  height: auto;
+
+}
+
+hr {
+  border: 0;
+  width: 95%;
+
+  color: #f00;
+  background-color: #f00;
+  height: 3px;
+
+}
